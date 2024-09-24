@@ -1,0 +1,111 @@
+.header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+.booking {
+    background-color: #fff;
+    padding: 20px;
+    margin-right: 10px;
+}
+
+.booking h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.booking p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.booking button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 0;
+    padding: 10px 30px;
+    margin-bottom: 20px;
+}
+
+.event {
+    background-color: #fff;
+    padding: 20px;
+}
+
+.event h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+.event p {
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+
+.event button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 0;
+    padding: 10px 30px;
+    margin-bottom: 20px;
+}
+
+/* Custom CSS for booking form modal */
+.modal-header {
+    background-color: #f8f9fa;
+    border-bottom: none;
+}
+
+.modal-body {
+    padding: 20px;
+}
+
+.form-striped .form-control {
+    border-radius: 0;
+    border: none;
+    border-bottom: 1px solid #ced4da;
+    box-shadow: none;
+    margin-bottom: 20px;
+}
+
+.form-striped .form-control:focus {
+    border-color: #007bff;
+    box-shadow: none;
+}
+
+.close {
+    color: #000;
+    opacity: 1;
+}
+
+.close:hover {
+    color: #000;
+    opacity: 0.5;
+}
+
+.form-container {
+    min-height: 100vh;
+    width: 100%;
+    background-image: var(--gradient1);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, FontAwesome;
+}
+
+.form-container form {
+    width: 400px;
+}
+
+.fa-user {
+    border-radius: 50%;
+}
+
+.other a {
+    text-decoration: none;
+}
+
+.other a:hover {
+    text-decoration: underline;
+}

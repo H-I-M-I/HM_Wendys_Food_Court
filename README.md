@@ -24,4 +24,4 @@ This project is a comprehensive database management system for Wendy's Food Cour
   - **Layouts**: Defining the structure and design of user interfaces.
   - **Query Handling**: Facilitating the execution of database queries and data retrieval.
 
-This project is organized to maintain a clean and modular structure, making it easier to manage, expand, and adapt to the evolving needs of the food court. 
+This project is organized to maintain a clean and modular structure, making it easier to manage, expand, and adapt to the evolving needs of the food court.
